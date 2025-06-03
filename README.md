@@ -1,4 +1,4 @@
-````markdown
+
 # Coleta e Processamento de Dados Históricos de Criptomoedas (1 Minuto)
 
 Este repositório contém um script Python (`gerdor.data.set.2.py`) que automatiza a coleta de dados históricos de velas (klines) em intervalo de 1 minuto para diversos pares de criptomoedas usando a API da Binance. Após baixar os dados, o script transforma o resultado em um DataFrame pandas, gera colunas úteis para análise e Machine Learning (retorno percentual, variação de preço, volatilidade e direção de preço), e salva cada conjunto de dados em um arquivo CSV separado.
@@ -70,7 +70,6 @@ Para executar este script, você precisará:
    source .venv/bin/activate
    # No Windows PowerShell:
    .venv\Scripts\Activate.ps1
-````
 
 2. **Instale as dependências necessárias**:
 
