@@ -4,9 +4,9 @@ from datetime import datetime, timedelta
 import os
 
 # ========== CONFIGURAÇÕES ==========
-API_KEY = 'v2K6tSlwcynU3AteaNXmjARw3mckhNzmLgoqJD2zycS9lNMtYIbCEJBcnlSjCEm0'
-API_SECRET = 'SFHPzYCev4wVE4fp9YqzRWAz5xXhGxpa5SISDJxWVlDElQrMCTfldwB7Bm6epieiI'
 
+API_KEY = ''
+API_SECRET = ''
 PARES = [
     'BTCUSDT', 'ETHUSDT', 'BNBUSDT', 'SOLUSDT', 'ADAUSDT',
     'XRPUSDT', 'LTCUSDT', 'DOTUSDT', 'MATICUSDT', 'AVAXUSDT',
